@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tb-common" />
+        <module name="tb-service-api" />
+        <module name="tb-config-server" />
+        <module name="tb-eureka" />
+        <module name="tb-config-client" />
+        <module name="tb-provider-two" />
+        <module name="tb-feign" />
+        <module name="tb-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tb-hystrix-dashboard-1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tb-common" options="-parameters" />
+      <module name="tb-config-client" options="-parameters" />
+      <module name="tb-config-server" options="-parameters" />
+      <module name="tb-eureka" options="-parameters" />
+      <module name="tb-feign" options="-parameters" />
+      <module name="tb-hystrix-dashboard-1" options="-parameters" />
+      <module name="tb-provider" options="-parameters" />
+      <module name="tb-provider-two" options="-parameters" />
+      <module name="tb-service-api" options="-parameters" />
+    </option>
+  </component>
+</project>

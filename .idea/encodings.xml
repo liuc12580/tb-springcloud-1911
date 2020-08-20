@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-config-server/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tb-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-hystrix-dashboard-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-provider-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-provider-two/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tb-provider/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tb-service-api" charset="UTF-8" />
+  </component>
+</project>
