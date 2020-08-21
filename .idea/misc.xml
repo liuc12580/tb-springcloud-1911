@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/tb-provider-two/pom.xml" />
         <option value="$PROJECT_DIR$/tb-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/tb-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/tb-zuul/pom.xml" />
       </list>
     </option>
   </component>

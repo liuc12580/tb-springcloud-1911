@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tb-zuul" />
         <module name="tb-common" />
         <module name="tb-service-api" />
         <module name="tb-config-server" />
@@ -31,6 +32,7 @@
       <module name="tb-provider" options="-parameters" />
       <module name="tb-provider-two" options="-parameters" />
       <module name="tb-service-api" options="-parameters" />
+      <module name="tb-zuul" options="-parameters" />
     </option>
   </component>
 </project>

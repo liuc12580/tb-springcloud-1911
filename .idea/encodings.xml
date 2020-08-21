@@ -14,5 +14,6 @@
     <file url="file://$PROJECT_DIR$/tb-provider-two/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/tb-provider/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/tb-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-zuul" charset="UTF-8" />
   </component>
 </project>
